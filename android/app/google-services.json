@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235995319355",
+    "project_id": "nasrda-tracker",
+    "storage_bucket": "nasrda-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235995319355:android:21327add5453d5b055601e",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235995319355-6fv2ul4e5s89vkinre1qvq4pdtmup8ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8VPZKWj7kEgiCvv_OOm4WpgiGf2w2k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235995319355-6fv2ul4e5s89vkinre1qvq4pdtmup8ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
